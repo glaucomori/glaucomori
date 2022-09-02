@@ -9,11 +9,7 @@ Contato: glauco.mori@outlook.com
 
 Conhecimentos: Lean Manufacturing, pensamento enxuto, 5S, melhoria contínua, solução de problemas, Power BI, Stratws, SAP, desdobramento estratégico, FMDS, rotinas de performance, Microsoft Office, gestão de riscos.
 ##
-<div align="center">
-  <a href="https://github.com/glaucomori">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=glaucomori&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucomori&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
+
 
 <div align="center"> 
   <a href = "mailto:glauco.mori@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
