@@ -17,8 +17,8 @@ Conhecimentos: Lean Manufacturing, pensamento enxuto, 5S, melhoria contínua, so
 
 <div align="center">
   <a href="https://github.com/glaucomori">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=glaucomori&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucomori&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=glaucomori&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucomori&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
 <!--
