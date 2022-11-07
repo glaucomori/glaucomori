@@ -1,13 +1,13 @@
-### Olá! Eu sou o Glauco Mori 👋
+### Hi! Glauco Mori here! 👋
 
 ##
-Sou mineiro, fluente em inglês e estudante de Análise e Desenvolvimento de Sistemas com 10 anos de experiência atuando em empresa multinacional de grande porte. Especialista em Lean e metodologia 5S.
+I am studying Analysis and Systems Development. I can speak English fluently and I have awareness in MySQL, Python, Power BI, and Microsoft Office.
 
-Sou apaixonado por conhecimento e tenho fácil aprendizagem. Minha vontade por desenvolver pessoas é a minha marca e me orgulho por cooperar e compartilhar conhecimento. Durante minha carreira profissional também atuei com suporte técnico/metodológico de solução de problemas e melhoria contínua.
+I am a long-life-learning person and I learn easily. My will in people developing is one of my personal marks and I am proud of cooperate and share knowledge. Throughout my professional career as a Lean Expert, with experience in troubleshooting and continuous improvement, I worked as a consultant, trainer, and technical and methodological support in the Lean tools, agile methods, 5S methodology, troubleshooting, and continuous improvement.
 
-Contato: glauco.mori@outlook.com
+Contact: glauco.mori@outlook.com
 
-Conhecimentos: Lean Manufacturing, pensamento enxuto, 5S, melhoria contínua, solução de problemas, Power BI, Stratws, SAP, desdobramento estratégico, FMDS, rotinas de performance, Microsoft Office, gestão de riscos.
+Knowledge: MySQL, Python, Lean Manufacturing, Lean Thinking, 5S, continuous improvement, troubleshooting, Power BI, strategic deployment, FMDS, performance routines, Microsoft Office, risk management.
 ##
 
 
