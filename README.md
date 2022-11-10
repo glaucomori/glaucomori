@@ -3,7 +3,7 @@
 ##
 I am studying Analysis and Systems Development. I can speak English fluently and I have an awareness of MySQL, Python, Power BI, and Microsoft Office.
 
-I am a long-life-learning person and I learn easily. My will in people developing is one of my personal marks and I am proud of cooperate and share knowledge. Throughout my professional career as a Lean Expert, with experience in troubleshooting and continuous improvement, I worked as a consultant, trainer, and technical and methodological support in the Lean tools, agile methods, 5S methodology, troubleshooting, and continuous improvement.
+I am a lifelong learning person and I learn easily. My will in people developing is one of my personal marks and I am proud of cooperate and share knowledge. Throughout my professional career as a Lean Expert, with experience in troubleshooting and continuous improvement, I worked as a consultant, trainer, and technical and methodological support in the Lean tools, agile methods, 5S methodology, troubleshooting, and continuous improvement.
 
 Contact: glauco.mori@outlook.com
 
