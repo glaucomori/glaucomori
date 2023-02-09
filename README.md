@@ -1,13 +1,15 @@
-### Hi! Glauco Mori here! 👋
+### Olá! Sou o Glauco Mori! 👋
 
 ##
-I am studying Analysis and Systems Development. I can speak English fluently and I have an awareness of MySQL, Python, Power BI, and Microsoft Office.
+Sou estudante de Análise de Desenvolvimento de Sistemas. Possuo inglês avançado e tenho conhecimento em Bancos de Dados Relacionais e Não Relacionais, Python, Power BI e Excel. 
 
-I am a lifelong learning person and I learn easily. My will in people developing is one of my personal marks and I am proud of cooperate and share knowledge. Throughout my professional career as a Lean Expert, with experience in troubleshooting and continuous improvement, I worked as a consultant, trainer, and technical and methodological support in the Lean tools, agile methods, 5S methodology, troubleshooting, and continuous improvement.
+Possuo facilidade de aprendizado, e isso me permite adaptar-me e inovar num ambiente colaborativo. Sou um profissional organizado e isso me permite atuar em rotinas de performance com base em análises de dados e com foco no resultado.
 
-Contact: glauco.mori@outlook.com
+Durante a minha carreira profissional atuei no acompanhamento de indicadores de processo (KPIs) através do Power BI em rotinas de performance para tomada de decisões que incluíam planos de recuperação, de solução de problemas e melhoria contínua.
 
-Knowledge: MySQL, Python, Lean Manufacturing, Lean Thinking, 5S, continuous improvement, troubleshooting, Power BI, strategic deployment, FMDS, performance routines, Microsoft Office, risk management.
+Contato: glauco.mori@outlook.com
+
+Conhecimentos: Python, MySQL, PostgreSQL, Power BI, Microsoft Excel, MongoDB, AWS Dynamo DB, Microsoft PowerPoint, solução de problemas, SAP, desdobramento estratégico, rotinas de performance.
 ##
 
 
