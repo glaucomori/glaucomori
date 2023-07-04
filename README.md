@@ -1,15 +1,14 @@
 ### Olá! Sou o Glauco Mori! 👋
 
 ##
-Sou estudante de Análise de Desenvolvimento de Sistemas. Possuo inglês avançado e tenho conhecimento em Bancos de Dados Relacionais e Não Relacionais, Python, Power BI e Excel. 
-
-Possuo facilidade de aprendizado, e isso me permite adaptar-me e inovar num ambiente colaborativo. Sou um profissional organizado e isso me permite atuar em rotinas de performance com base em análises de dados e com foco no resultado.
+Sou estudante de Análise de Desenvolvimento de Sistemas. Possuo inglês avançado e tenho habilidade para monitorar, solucionar problemas e manter serviços de nuvem em funcionamento com conhecimentos de cloud computing e AWS Cloud. Também tenho conhecimento em Bancos de Dados Relacionais e Não Relacionais, Python, Power BI, Excel, Power Point, SAP e Trello.
 
 Durante a minha carreira profissional atuei no acompanhamento de indicadores de processo (KPIs) através do Power BI em rotinas de performance para tomada de decisões que incluíam planos de recuperação, de solução de problemas e melhoria contínua.
 
 Contato: glauco.mori@outlook.com
+Perfil DISC: Analista Planejador.
 
-Conhecimentos: Python, MySQL, PostgreSQL, Power BI, Microsoft Excel, MongoDB, AWS Dynamo DB, Microsoft PowerPoint, solução de problemas, SAP, desdobramento estratégico, rotinas de performance.
+Conhecimentos: Amazon Web Services (AWS), Cloud Computing, Python, MySQL, PostgreSQL, Power BI, Microsoft Excel, MongoDB, AWS Dynamo DB, Microsoft PowerPoint, solução de problemas, SAP, desdobramento estratégico, rotinas de performance.
 ##
 
 
