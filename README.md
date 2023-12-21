@@ -1,7 +1,7 @@
 ### Olá! Sou o Glauco Mori! 👋
 
 ##
-Sou estudante de Análise de Desenvolvimento de Sistemas. Possuo inglês avançado e tenho habilidade para monitorar, solucionar problemas e manter serviços de nuvem em funcionamento com conhecimentos de cloud computing e AWS Cloud. Também tenho conhecimento em Bancos de Dados Relacionais e Não Relacionais, Python, Power BI, Excel, Power Point, SAP e Trello.
+Estudante de Análise de Desenvolvimento de Sistemas. Possuo inglês avançado e tenho habilidade para monitorar, solucionar problemas e manter serviços de nuvem em funcionamento com conhecimentos de cloud computing e AWS Cloud. Também tenho conhecimento em Bancos de Dados Relacionais e Não Relacionais, Python, Power BI, Excel, Power Point, SAP e Trello.
 
 Durante a minha carreira profissional atuei no acompanhamento de indicadores de processo (KPIs) através do Power BI em rotinas de performance para tomada de decisões que incluíam planos de recuperação, de solução de problemas e melhoria contínua.
 
